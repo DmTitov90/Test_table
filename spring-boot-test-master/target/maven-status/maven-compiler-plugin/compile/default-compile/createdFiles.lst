@@ -1,0 +1,5 @@
+com\example\springdemo\Controller.class
+com\example\springdemo\SpringDemoApplication.class
+com\example\springdemo\UserRepository.class
+com\example\springdemo\UserService.class
+com\example\springdemo\entities\User.class
